@@ -8,3 +8,4 @@ Hey Guys!! This repo has been built by me so I can store and update all of my pr
 
 ## Contents
 - 🎂 [Happy Birthday](Happy_Birthday/) – Plays the tune with a buzzer
+- 📡 [Radar](Radar/) - Uses an ultrasonic sensor on a servo to map out distances
