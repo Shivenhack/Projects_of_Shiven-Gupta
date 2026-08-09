@@ -3,3 +3,5 @@ The robot detects and follows a light source (like a torch or lamp) by comparing
 It demonstrates the integration of sensors and microcontrollers for autonomous navigation.
 
 ### Go plug it in and enjoy !!
+## NOTE
+If the car is moveing the wrong direction just swap the wiring of the motors!
