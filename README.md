@@ -1,4 +1,4 @@
-# ⚡ Arduino • ESP32 • Robotics • Fun ⚡
+## ⚡ Arduino • ESP32 • Robotics • Fun ⚡
 Hey Guys!! This repo has been built by me so I can store and update all of my projects over here and for sharing!!
 
 # How to Use
