@@ -1,0 +1,13 @@
+
+
+This was a special project for me as it was my very first radar system with my Arduino Nano, and it turned out to be a big success!
+Using a servo motor and an ultrasonic sensor, the setup scans from 0° to 180° and sends distance readings to the computer.
+The Processing sketch then visualizes these values on a radar screen with a sweeping beam and color‑coded targets.  
+
+**How to Run:**  
+- Connect the circuit as shown in the diagram.  
+- Upload the `.ino` file to your Arduino Nano.  
+- Open the `.pde` file in Processing.  
+- Select the correct COM port for your Arduino.  
+- Run the sketch and enjoy watching your DIY radar in action!  
+
