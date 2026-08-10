@@ -11,5 +11,5 @@ Hey Guys!! This repo has been built by me so I can store and update all of my pr
 - 📡 [Radar](Radar/) - Uses an ultrasonic sensor on a servo to map out distances
 
 # Important Links
-- https://github.com/Shivenhack/Guides_And_Manuels
+- https://github.com/Shivenhack/Guides_And_Manuals
   
