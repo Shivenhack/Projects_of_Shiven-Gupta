@@ -9,6 +9,7 @@ Hey Guys!! This repo has been built by me so I can store and update all of my pr
 ## Contents
 - 🎂 [Happy Birthday](Happy_Birthday/) – Plays the tune with a buzzer
 - 📡 [Radar](Radar/) - Uses an ultrasonic sensor on a servo to map out distances
+- 🚗 [Light Following Car](Light_Following_Car/) - Uses an Arduino Nano and 3 LDRs to follow the light
 
 # Important Links
 - https://github.com/Shivenhack/Guides_And_Manuals
