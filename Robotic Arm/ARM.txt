@@ -1,0 +1,19 @@
+Robotic Arm 
+Pick & Place things ~ 2 bins 
+Using Rduino Q 
+other components:
+MG90 x 4 (maybe PCA9685 driver)
+ESP32 Cam module 
+TFT 1.8' 
+Stepper Motor 
+DC motor and fan 
+
+ROBU LINK:
+https://robu.in/arduino-physical-ai-challenge-india-2026/?utm_source=Web_Banner_Arduino_Submission_Open_&utm_medium=Submission_Open_&utm_campaign=June_2026
+
+GITHUB LINK: 
+https://github.com/Shivenhack/Projects_of_Shiven-Gupta/tree/main
+
+DATES:
+registration: 15 aug
+Submission : 23 aug
