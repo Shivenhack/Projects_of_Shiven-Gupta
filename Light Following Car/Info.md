@@ -5,3 +5,4 @@ It demonstrates the integration of sensors and microcontrollers for autonomous n
 ### Go plug it in and enjoy !!
 ## NOTE
 If the car is moving the wrong direction just swap the wiring of the motors!
+And you might need to down load the video as the size is big!
